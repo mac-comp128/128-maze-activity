@@ -57,7 +57,7 @@ public abstract class MazeSolver {
 
     /**
      *
-     * @return returns either a string of the solution path as a list of coordinates [i,j] from the start to the exit or a message indicating no such path exists
+     * @return returns either a string of the solution path as a list of coordinates [i,j] from the start to the exit
      */
     public String getPath() {
         //TODO: Complete this method
